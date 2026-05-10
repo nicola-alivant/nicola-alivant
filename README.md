@@ -1,50 +1,90 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm Nicola Yanni Alivant</h3>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
+<h1 align="center">Hi, I'm Nicola Yanni Alivant <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25"></h1>
 
-## 🙋‍♂️ About Me
-- 👨‍🎓 I’m a Informatics Engineering student at Trunojoyo Madura University
-- 🌱 I’m currently learning responsive mobile UI / UX
-- 😄 I'm natively speak Indonesian and fluently speak english
-- 👯 Likes looking a new friends who like programming especially android programming
-- 📫 Reach me at nicola.alivant@gmail.com
-<br/>
+**A Full-Stack & Mobile Developer**
 
-<h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools</h2>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png" width="30" height="30"/> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
-</p><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nicola-alivant.vercel.app)
 
-<h2 align="left"><img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width = 48px> My Github Stats</h2>
-<p align="center">
-    <a href="https://github.com/nicola-alivant/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicola Yanni Alivant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-alivant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> <br/>
-<p align="center">
-<a href="https://github.com/nicola-alivant">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicola-alivant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicola-alivant&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+</div>
 
-<h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35" width="50px"> Connect with me</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/nicola-alivant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylix-eza-saputra-1bb1b7192" height="20" width="40" /></a>
-  <a href="https://instagram.com/nicola_alivant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_ylix" height="20" width="40" /></a>
-  <a href="https://facebook.com/Nicola.Alivant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k_ylix" height="20" width="40" /></a>
-  <a href="https://discord.gg/#the_unchosen_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#Kylix3272" height="30" width="40" /></a>
-  <a href="https://t.me/nicola_alivant" target="_blank"><img align="center" alt="Telegram" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/telegram.svg" />
-  <a href="https://wa.me/6282333859784" target="_blank"><img align="center" alt="WhatsApp" height="20" width="40" src="https://github.com/reski-mulud-muchamad/reski-mulud-muchamad/blob/main/logo-svg/whatsapp.svg" />
-</p><br/>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" /> About Me</h2>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nicola-alivant">
-</a>
-<a href="https://github.com/nicola-alivant?tab=followers"><img src="https://img.shields.io/github/followers/nicola-alivant?label=Followers&style=social" alt="GitHub Badge"></a>
+I'm a passionate Full-Stack & Mobile Developer with hands-on experience across the entire development lifecycle — from designing intuitive UI/UX in Figma to shipping production-ready apps on web and mobile.
+
+- <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" /> Informatics Engineering graduate from Trunojoyo University</p>
+- <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" /> Currently a <b>full-time</b> full-stack developer</p>
+- <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" /> Focus in full-stack development</p>
+- <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" /> Currently exploring <b>Golang and Java Springboot</b></p>
+- <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" /> From Sidoarjo, Indonesia</p>
+
+---
+
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" /> Tech Stack</h1>
+
+<div align="center">
+  
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" /> Mobile Development</h3>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### 🌐 Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Backend</h3>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-47A248?style=flat-square&logo=spring&logoColor=white)
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" /> Databases</h3>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-02569B?style=flat-square&logo=firebase&logoColor=yellow)
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" alt="Paintbrush" width="25" /> Design</h3>
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" /> Github Stats</h1>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicola-alivant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Nicola's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nicola-alivant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nicola-alivant&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25" /> Let's Connect</h1>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicola-alivant)
+[![Email](https://img.shields.io/badge/Mail_to_gmail-EA4335?style=for-the-badge&logo=email&logoColor=white)](mailto:nicola.alivant@gmail.com)
+
+  <img src="https://komarev.com/ghpvc/?username=nicola-alivant&color=58A6FF&style=flat-square" />
+  
+  <sub>Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="20" /></sub>
+  
+</div>
